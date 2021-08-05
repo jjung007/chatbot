@@ -1,6 +1,6 @@
 ## Welcome to 쩡이의 첫 인공지능 챗봇
 
-챗봇 만들어 보아요.. 기록할 공간입니다
+🤣챗봇 만들어 보아요.. 기록할 공간입니다💖
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
